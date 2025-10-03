@@ -106,8 +106,9 @@
 # P = int(input("Asos: "))
 # r = int(input("Foiz stavkasi: "))
 # t = int(input("Yillar: "))
-# tinterest = P * r / 100 * t
-# print(f"Jami summa: {tinterest}")
+# interest = (P * r * t) / 100
+# total = P + interest
+# print(f"Jami summa: {interest}")
 
 # #9
 # base_qyt = int(input("Ingredient: "))
