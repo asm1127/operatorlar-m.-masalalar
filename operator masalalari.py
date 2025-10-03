@@ -31,7 +31,7 @@
 
 # #6
 # usd = int(input("Dollar miqdori: "))
-# summa = usd * 1200
+# summa = usd * 12000
 # print(f"So'mda: {summa}")
 
 # #7
